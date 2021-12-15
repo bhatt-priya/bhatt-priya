@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png)
+![https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png](https://github.com/user/banner.png)
 <h1 align="center">Hi 👋, I'm Priya Bhatt</h1>
 <h3 align="center">An aspiring developer from India</h3>
 ![](https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
