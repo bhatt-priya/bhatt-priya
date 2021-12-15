@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Bhatt</h1>
 <h3 align="center">An aspiring developer from India</h3>
-https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png(https://github.com/bhatt-priya/bhatt-priya/blob/main/lk.jfif)
+https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-priya&label=Profile%20views&color=0e75b6&style=flat" alt="bhatt-priya" /> </p>
 
 
