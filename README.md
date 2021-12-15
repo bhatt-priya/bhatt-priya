@@ -1,10 +1,10 @@
 ![](https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
 
-<h3 align="center">An aspiring developer from India</h3>
+<h2 align="center">An aspiring developer from India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-priya&label=Profile%20views&color=0e75b6&style=flat" alt="bhatt-priya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itspriyabhatt" target="blank"><img src="https://img.shields.io/twitter/follow/itspriyabhatt?logo=twitter&style=for-the-badge" alt="itspriyabhatt" /></a> </p>
+ <p align="left"><a href="https://twitter.com/itspriyabhatt" target="blank"><img src="https://img.shields.io/twitter/follow/itspriyabhatt?logo=twitter&style=for-the-badge" alt="itspriyabhatt" /></a></p>
 
 - 🔭 I’m currently working on [Python Projects](https://github.com/bhatt-priya/Python-Mysql-Connectivity-Project-Class-12)
 
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatt-priya&show_icons=true&locale=en&layout=compact" alt="bhatt-priya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatt-priya&show_icons=true&locale=en" alt="bhatt-priya" /></p>
+<p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhatt-priya&show_icons=true&locale=en" alt="bhatt-priya" /></p>
