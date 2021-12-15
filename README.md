@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-priya&label=Profile%20views&color=0e75b6&style=flat" alt="bhatt-priya" /> </p>
 
-- 🔭 I’m currently working on [Python-MySQl connectivity Project Class 12th](https://github.com/bhatt-priya/Python-Mysql-Connectivity-Project-Class-12)
 
 - 🌱 I’m currently learning **Web Development, C++**
 
