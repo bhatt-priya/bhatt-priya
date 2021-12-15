@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Bhatt</h1>
 <h3 align="center">An aspiring developer from India</h3>
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-hiosx5%2F&psig=AOvVaw133IgqtlNlxdzp6M6wz-KK&ust=1639634137620000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiN3a2P5fQCFQAAAAAdAAAAABAD
-
+https://mpng.subpng.com/20180402/trq/kisspng-web-development-mobile-app-development-software-de-developer-5ac2eca5a5f003.9426745715227240056797.jpg
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-priya&label=Profile%20views&color=0e75b6&style=flat" alt="bhatt-priya" /> </p>
 
 
