@@ -23,7 +23,7 @@ Hey there 👋,
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ipriyabhatt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ipriyabhatt" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ipriyabhatt&show_icons=true&locale=en&theme=tokyonight" alt="ipriyabhatt" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ipriyabhatt&show_icons=true&locale=en&theme=tokyonight" alt="ipriyabhatt" /></p>
 
 ---
 
