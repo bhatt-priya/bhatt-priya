@@ -1,4 +1,4 @@
-![](https://github.com/bhatt-priya/bhatt-priya/blob/main/Black%20Technology%20LinkedIn%20Banner.png)
+![](https://github.com/ipriyabhatt/bhatt-priya/blob/main/Black%20and%20Yellow%20Illustrated%20Designer%20LinkedIn%20Banner.png)
 
 <h3 align="center">An aspiring developer from India</h3>
 
