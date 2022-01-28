@@ -4,8 +4,8 @@
 
 ### About me:
 - B.Tech in Information and Technology, Manipal University Jaipur(2021-25)
-- Specialize in programming robots and building interactive apps and websites
-- Looking for Software and Product roles for Fall 2022
+- Specialize in AI and Ml
+
 
 ----
 
