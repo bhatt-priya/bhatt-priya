@@ -10,10 +10,10 @@
 ----
 
 ### I am currently working on:
-- Font-end Development
+- Front-end Development
 
 ### I am curently learning:
-- Human Computer Interactions
+- Human Computer Interactions from IIT Guwahati
 
 
 -----
