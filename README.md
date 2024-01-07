@@ -7,11 +7,8 @@
 
 ----
 
-### I am currently working on:
-- Front-end Development
-
 ### I am curently learning:
-- Human Computer Interactions from IIT Guwahati
+- ML
 
 
 -----
