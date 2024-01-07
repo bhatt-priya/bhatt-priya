@@ -1,5 +1,3 @@
-![](https://github.com/ipriyabhatt/bhatt-priya/blob/main/Black%20and%20Yellow%20Illustrated%20Designer%20LinkedIn%20Banner.png)
-
 
 
 ### About me:
